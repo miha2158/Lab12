@@ -9,8 +9,7 @@ namespace Lab12
     {
         static void Main(string[] args)
         {
-
-
+            
 
         }
     }
