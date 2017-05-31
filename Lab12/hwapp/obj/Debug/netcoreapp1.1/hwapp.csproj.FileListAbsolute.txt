@@ -1,0 +1,8 @@
+/media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
+/media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
+/media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
+/media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb

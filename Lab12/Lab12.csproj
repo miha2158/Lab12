@@ -32,6 +32,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Countries_Lab11">
+      <HintPath>..\..\Lab11\Countries_Lab11\bin\Debug\Countries_Lab11.dll</HintPath>
+    </Reference>
+    <Reference Include="New_Collections">
+      <HintPath>..\New_Collections\bin\Debug\New_Collections.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

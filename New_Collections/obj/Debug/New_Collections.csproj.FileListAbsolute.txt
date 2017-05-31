@@ -1,1 +1,9 @@
-C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\New_Collections\obj\Debug\New_Collections.csprojResolveAssemblyReference.cache
+/media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/New_Collections/bin/Debug/New_Collections.dll
+/media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/New_Collections/bin/Debug/New_Collections.pdb
+/media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/New_Collections/obj/Debug/New_Collections.csproj.CoreCompileInputs.cache
+/media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/New_Collections/obj/Debug/New_Collections.dll
+/media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/New_Collections/obj/Debug/New_Collections.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\New_Collections\bin\Debug\New_Collections.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\New_Collections\bin\Debug\New_Collections.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\New_Collections\obj\Debug\New_Collections.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\New_Collections\obj\Debug\New_Collections.pdb
