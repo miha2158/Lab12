@@ -1,11 +1,3 @@
-C:/Users/user/documents/visual studio 2017/Projects/Lab12/Lab12/bin/Debug/Lab12.exe.config
-C:/Users/user/documents/visual studio 2017/Projects/Lab12/Lab12/bin/Debug/Lab12.exe
-C:/Users/user/documents/visual studio 2017/Projects/Lab12/Lab12/bin/Debug/Lab12.pdb
-C:/Users/user/documents/visual studio 2017/Projects/Lab12/Lab12/obj/Debug/Lab12.csprojResolveAssemblyReference.cache
-C:/Users/user/documents/visual studio 2017/Projects/Lab12/Lab12/obj/Debug/Lab12.exe
-C:/Users/user/documents/visual studio 2017/Projects/Lab12/Lab12/obj/Debug/Lab12.pdb
-C:/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/bin/Debug/New_Collections.dll
-C:/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/bin/Debug/New_Collections.pdb
 /media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/bin/Debug/Lab12.exe.config
 /media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/bin/Debug/Lab12.exe
 /media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/bin/Debug/Lab12.pdb
@@ -16,3 +8,13 @@ C:/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/bin/Debug/New_Co
 /media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/obj/Debug/Lab12.exe
 /media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/obj/Debug/Lab12.pdb
 /media/miha2158/OS_Install/Users/user/Documents/Visual Studio 2017/Projects/Lab12/Lab12/bin/Debug//Lab12.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\Lab12\bin\Debug\Countries_Lab11.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\Lab12\bin\Debug\New_Collections.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\Lab12\bin\Debug\Countries_Lab11.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\Lab12\bin\Debug\New_Collections.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\Lab12\obj\Debug\Lab12.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Lab12\Lab12\obj\Debug\Lab12.pdb

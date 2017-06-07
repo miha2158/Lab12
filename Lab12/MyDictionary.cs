@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace New_Collections
+namespace Lab12
 {
     public class MyDictionary<T> : ICloneable, IEnumerable<T> where T : ICloneable
     {
@@ -109,10 +109,9 @@ namespace New_Collections
         
         public void Add(T o)
         {
-            if(o == null || o.Equals(default(T)))
+            if(o == null || o.Equals(default(T)) || Exists(Array.IndexOf(_items, o)))
                 return;
-            while (Math.Abs(Count - Capacity*FillRatio) < 0.03f ||
-               Exists(Array.IndexOf(_items, o)))
+            while (Math.Abs(Count - Capacity*FillRatio) < 0.03f)
                 Capacity *= 2;
 
             _items[o.GetHashCode()%Capacity] = o;

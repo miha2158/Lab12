@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 using System.Collections;
 using System.Collections.Generic;
 using Countries_Lab11;
-using New_Collections;
 
 using static System.Console;
 
@@ -121,7 +120,7 @@ namespace Lab12
             
             md.Add(new Republic("1",900,"C1","R1",new []{"P1"}));
 
-            var mdCopy = (MyDictionary<Country>)md.Clone();
+            var mdCopy = (MyDictionary<Country>)(md.Clone());
 
             foreach (Country c in mdCopy.Values)
                 WriteLine(c);
