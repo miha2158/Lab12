@@ -109,7 +109,8 @@ namespace Lab12
         
         public void Add(T o)
         {
-            if(o == null || o.Equals(default(T)) || Exists(Array.IndexOf(_items, o)))
+            if(o == null || o.Equals(default(T)) 
+                || Exists(Array.IndexOf(_items, o)))
                 return;
             while (Math.Abs(Count - Capacity*FillRatio) < 0.03f)
                 Capacity *= 2;
